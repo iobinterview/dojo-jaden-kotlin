@@ -12,3 +12,5 @@ out/
 
 # Mac
 .DS_Store
+
+bin/
