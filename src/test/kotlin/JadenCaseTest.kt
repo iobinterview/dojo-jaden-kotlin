@@ -13,7 +13,7 @@ class JadenCaseTest {
     @Test
     fun casingTest2() {
         assertEquals(
-            "How Can Mirrors Be real If Our Eyes Aren't Real",
+            "How Can Mirrors Be Real If Our Eyes Aren't Real",
             jadenCase.toJadenCase("How can mirrors be real if our eyes aren't real")
         )
     }
